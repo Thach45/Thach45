@@ -9,7 +9,7 @@ Software engineer | Innovating through code and collaboration ![](https://komare
 I’m a passionate software developer with a focus on building scalable and efficient solutions. I enjoy solving complex challenges and transforming ideas into impactful applications. My coding philosophy centers around clean, maintainable, and well-documented code that enhances both performance and collaboration.
 
 * 🌍  I'm based in Viet Nam
-* 🖥️  See my portfolio at [MyPortfolio](thach45.github.io/My-Portfolio-Frontend/)
+* 🖥️  See my portfolio at [MyPortfolio](thach45.github.io/My-Portfolio/)
 * ✉️  You can contact me at [nguyenhoangthach2005@gmail.com](mailto:nguyenhoangthach2005@gmail.com)
 ### Skills
 

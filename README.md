@@ -1,0 +1,319 @@
+<!-- 
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   ██████╗ ███████╗██████╗  ██████╗ ██╗   ██╗ █████╗ ███╗   ██╗██╗   ██╗██╗   ║
+║   ██╔══██╗██╔════╝██╔══██╗██╔═══██╗╚██╗ ██╔╝██╔══██╗████╗  ██║██║   ██║██║   ║
+║   ██████╔╝█████╗  ██║  ██║██║   ██║ ╚████╔╝ ███████║██╔██╗ ██║██║   ██║██║   ║
+║   ██╔══██╗██╔══╝  ██║  ██║██║   ██║  ╚██╔╝  ██╔══██║██║╚██╗██║██║   ██║██║   ║
+║   ██║  ██║███████╗██████╔╝╚██████╔╝   ██║   ██║  ██║██║ ╚████║╚██████╔╝███████╗
+║   ╚═╝  ╚═╝╚══════╝╚═════╝  ╚═════╝    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝
+║                                                                              ║
+║           🚀 SOFTWARE ENGINEER • FULL-STACK DEVELOPER 🚀                     ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+-->
+
+<div align="center">
+  
+  <!-- ═══════════════════════════════════════════════════════════════════════════ -->
+  <!-- 🎯 ANIMATED HEADER                                                          -->
+  <!-- ═══════════════════════════════════════════════════════════════════════════ -->
+  
+  <img src="./assets/header-animation.svg" alt="Nguyen Hoang Thach - Software Engineer" width="100%"/>
+  
+  <br/>
+  
+  <!-- ═══════════════════════════════════════════════════════════════════════════ -->
+  <!-- 📊 PROFILE BADGES                                                           -->
+  <!-- ═══════════════════════════════════════════════════════════════════════════ -->
+  
+  <a href="https://github.com/Thach45">
+    <img src="https://komarev.com/ghpvc/?username=Thach45&label=Profile%20Views&color=764ba2&style=flat-square&base=1000" alt="Profile Views"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Thach45?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FThach45&query=%24.public_repos&suffix=%2B&label=Repositories&style=flat-square&color=f093fb&labelColor=1a1b26" alt="Repositories"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Thach45?tab=followers">
+    <img src="https://img.shields.io/github/followers/Thach45?label=Followers&style=flat-square&color=667eea&labelColor=1a1b26" alt="Followers"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Thach45">
+    <img src="https://img.shields.io/github/stars/Thach45?label=Stars&style=flat-square&color=764ba2&labelColor=1a1b26" alt="Stars"/>
+  </a>
+  
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🖥️ TERMINAL INTRO SECTION                                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="./assets/terminal-intro.svg" alt="Terminal Introduction" width="650"/>
+</div>
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 👤 ABOUT ME SECTION                                                          -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<img src="./assets/section-about.svg" width="180"/>
+
+<br/><br/>
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### 🎯 What I Do
+
+```yaml
+name: Nguyen Hoang Thach
+located_in: Ho Chi Minh City, Vietnam 🇻🇳
+current_status: Software Engineer & IT Student
+
+areas_of_expertise:
+  - 🌐 Full-Stack Web Development
+  - 🤖 AI-powered Systems & LLM Integrations
+  - ⚡ Real-time Communication (WebSocket, SSE)
+  - 🚀 Reliable & Scalable Architecture
+
+currently_building:
+  - AI Interview Platform
+  - E-Learning Platform
+
+life_philosophy: "Passionate about building reliable and scalable software."
+```
+
+</td>
+<td width="45%" valign="top">
+
+### 🚀 Current Focus
+
+- 💻 **Developing** robust web applications
+- 🤖 **Building** LLM-based features & AI integration
+- ⚡ **Optimizing** real-time asynchronous systems
+- 🌟 **Learning** new cloud and scalable technologies
+
+
+<br/>
+
+### 💡 Quick Facts
+
+- 🎓 IT Student at HCMUTE (GPA 3.5/4.0)
+- 🔥 Passionate about system architecture
+- 🌱 TypeScript, React & Node.js enthusiast
+- ☕ Fueled by code & coffee
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🏆 ACHIEVEMENTS SECTION                                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<img src="./assets/section-trophy.svg" width="200"/>
+
+<br/><br/>
+
+<div align="center">
+  
+  <!-- GitHub Trophies -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-trophies.vercel.app/?username=Thach45&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="100%"/>
+  </a>
+  
+</div>
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 📊 GITHUB ANALYTICS                                                         -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<img src="./assets/section-stats.svg" width="220"/>
+
+<br/><br/>
+
+<div align="center">
+  
+  <!-- GitHub Stats + Custom Streak in ONE ROW -->
+  <a href="https://github.com/Thach45">
+    <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Thach45&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Thach45">
+    <img height="195em" src="./assets/streak.svg" alt="GitHub Streak"/>
+  </a>
+  
+  <br/><br/>
+  
+  <!-- 📊 REAL-TIME LANGUAGE USAGE WITH PROGRESS BARS -->
+  <a href="https://github.com/Thach45">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Thach45&layout=normal&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&langs_count=8&card_width=400" alt="Top Languages" />
+  </a>
+  
+  <br/><br/>
+  
+  <!-- Activity Graph -->
+  <a href="https://github.com/Thach45">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thach45&bg_color=0d1117&color=667eea&line=764ba2&point=c9d1d9&area=true&area_color=667eea&hide_border=true&custom_title=📈%20Contribution%20Activity" width="95%" alt="Activity Graph"/>
+  </a>
+  
+</div>
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ⚡ TECH STACK                                                               -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<img src="./assets/section-tech.svg" width="180"/>
+
+<br/><br/>
+
+<div align="center">
+
+<!-- 💻 LANGUAGES -->
+<h4>💻 Languages</h4>
+<p>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" title="TypeScript"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" title="JavaScript"/></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" title="Java"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" title="Python"/></a>
+</p>
+
+<!-- 🌐 FRONTEND TECHNOLOGIES -->
+<h4>🌐 Frontend Technologies</h4>
+<p>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" title="React"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" title="Tailwind CSS"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" title="HTML5"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" title="CSS3"/></a>
+</p>
+
+<!-- ⚙️ BACKEND FRAMEWORKS -->
+<h4>⚙️ Backend Frameworks</h4>
+<p>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" title="Node.js"/></a>
+  <a href="https://nestjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=nestjs&theme=dark" alt="NestJS" title="NestJS"/></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express.js" title="Express.js"/></a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Spring Boot" title="Spring Boot"/></a>
+</p>
+
+<!-- 🗄️ DATABASES -->
+<h4>🗄️ Databases</h4>
+<p>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" title="PostgreSQL"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" title="MongoDB"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" title="MySQL"/></a>
+  <a href="https://redis.io/" target="_blank"><img src="https://skillicons.dev/icons?i=redis&theme=dark" alt="Redis" title="Redis"/></a>
+</p>
+
+<!-- 🔧 TOOLS & PLATFORMS -->
+<h4>🔧 Tools & Platforms</h4>
+<p>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" title="Git"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" title="Docker"/></a>
+</p>
+
+</div>
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🔥 CURRENTLY WORKING ON                                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  
+### ⚡ Currently Building
+
+<br/>
+
+<a href="https://github.com/Thach45">
+  <img src="https://img.shields.io/badge/🤖_AI_Interview_Platform-React_NodeJS-667eea?style=for-the-badge&labelColor=1a1b26"/>
+</a>
+&nbsp;
+<a href="https://github.com/Thach45">
+  <img src="https://img.shields.io/badge/📚_E--Learning_Hub-NestJS_Prisma-764ba2?style=for-the-badge&labelColor=1a1b26"/>
+</a>
+
+</div>
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🌐 CONNECT WITH ME                                                          -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<img src="./assets/section-connect.svg" width="160"/>
+
+<br/><br/>
+
+<div align="center">
+  
+<a href="https://github.com/Thach45" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b26" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://hoangthach.me" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=react&logoColor=white&labelColor=1a1b26" alt="Portfolio"/>
+</a>
+&nbsp;
+<a href="mailto:hoangthach.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b26" alt="Email"/>
+</a>
+
+</div>
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🌟 FOOTER                                                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  
+  <img src="./assets/footer.svg" width="100%"/>
+  
+  <br/><br/>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=80&section=footer"/>
+  
+</div>
